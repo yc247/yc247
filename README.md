@@ -1,9 +1,18 @@
 ## Hi there 👋
 
-<!--
-**yc247/yc247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a graduate student in data science with a passion for solving complex problems and building machine learning models. Welcome to my profile! I document some of my data science projects here.
 
-Here are some ideas to get you started:
+### 🛠 Skills & Tools:
+
+- **Languages**: Python, R, SQL
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
+- **Data Visualization**: Tableau, Matplotlib, Seaborn
+- **Tools**: Docker, Git, Jupyter
+
+<!-- 
+### 🌟 Featured Projects:
+- [📈 Predicting Appliance Energy Consumption](https://github.com/johndoe/energy-prediction) - Built models to forecast appliance energy usage using time series data.
+- [⚙️ Automated Data Pipeline](https://github.com/johndoe/data-pipeline) - Streamlined data flow across systems, reducing latency by 70%.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
