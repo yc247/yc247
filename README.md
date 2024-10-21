@@ -1,6 +1,9 @@
 ## Introducing myself 👋
 
-Hello, I'm Yucheng, graduate student in data science with a passion for solving complex problems and building machine learning models. Welcome to my profile! I document some of my data science projects here.
+Hello, I'm Yucheng, graduate student in data science with a passion for solving complex problems and building machine learning models.
+
+### 📚 Projects
+Welcome to my profile! I document some of my data science [projects](https://github.com/yc247/ds_portfolio.git) here.
 
 
 ### 🛠 Skills & Tools:
