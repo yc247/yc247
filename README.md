@@ -1,7 +1,9 @@
 ## 👋 Introducing myself 
 
 Hi, I’m Yucheng Fang — a data scientist with a passion for solving real-world problems through code, statistics, and creativity.
+
 🎓 Recently graduated from the University of Chicago with a Master’s in Applied Data Science.
+
 📊 With a background in both mathematics and communications, I bring a unique blend of analytical rigor and storytelling to my work.
 
 ## 🔍 Data Scientist with Real-World Experience in Applied Machine Learning and Scalable Data Solutions
@@ -15,7 +17,7 @@ Hi, I’m Yucheng Fang — a data scientist with a passion for solving real-worl
 📊 **Interactive dashboards** to drive decision-making in cross-functional teams
 
 ## 📚 Projects
-Check out my pinned repositories below for [projects](https://github.com/yc247/ds_portfolio.git) on time series forecasting, Conversational AI interview tool, diabetes prediction, and more!
+Check out my pinned repositories below for [projects](https://github.com/yc247/projects) on time series forecasting, Conversational AI interview tool, diabetes prediction, and more!
 
 
 ## 🛠 Technical Skills & Tools:
