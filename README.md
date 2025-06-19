@@ -7,8 +7,11 @@ Hi, I’m Yucheng Fang — a data scientist with a passion for solving real-worl
 ## 🔍 Data Scientist with Real-World Experience in Applied Machine Learning and Scalable Data Solutions
 
 📈 **Predictive models** (e.g., SARIMA, Prophet, XGBoost) to forecast trends and business outcomes
+
 ⚙️ **Scalable data pipelines** with SQL, Python, and Airflow
+
 🧠 **NLP & LLM-powered applications** for intelligent assistants and job matching
+
 📊 **Interactive dashboards** to drive decision-making in cross-functional teams
 
 ## 📚 Projects
