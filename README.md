@@ -24,6 +24,6 @@ Check out my pinned repositories below for [projects](https://github.com/yc247/d
 - **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
 - **ML/DL/LLM**: Decision Tree, Random Forest, Neural Networks, Classification, Clustering, Regression, Bagging, Boosting, Time Series Analysis, Clustering, PCA, XGBoost, Naïve Bayes, Natural Language Processing (NLP), Recommendation Systems
 
-📬 Contact
+## 📬 Contact
 📧 Email: [yucheng.fg@gmail.com]
 🔗 LinkedIn: www.linkedin.com/in/yuchengfg
