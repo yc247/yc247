@@ -26,4 +26,5 @@ Check out my pinned repositories below for [projects](https://github.com/yc247/d
 
 ## 📬 Contact
 📧 Email: [yucheng.fg@gmail.com]
+
 🔗 LinkedIn: www.linkedin.com/in/yuchengfg
