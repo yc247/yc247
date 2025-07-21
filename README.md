@@ -17,7 +17,7 @@ Hi, I’m Yucheng Fang — a data scientist with a passion for solving real-worl
 📊 **Interactive dashboards** to drive decision-making in cross-functional teams
 
 ## 📚 Projects
-Check out my pinned repositories below for [projects](https://github.com/yc247/projects) on time series forecasting, Conversational AI interview tool, diabetes prediction, and more!
+Check out my pinned repositories below for [projects](https://yc247.github.io/) on time series forecasting, Conversational AI interview tool, diabetes prediction, and more!
 
 
 ## 🛠 Technical Skills & Tools:
